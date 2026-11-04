@@ -20,11 +20,17 @@
 - **Banco de dados:** PostgreSQL, SQLite e Supabase
 - **Ferramentas:** Git, GitHub e VS Code
 
-## 🚀 Projetos
+## 🚀 Projetos em destaque
 
-- **Befit:** Aplicativo fitness desenvolvido com Flutter e Supabase.
-- **E-commerce:** Loja virtual com React, Node.js, Prisma e PostgreSQL.
-- **Oficina Siri:** Sistema de gerenciamento de oficina com Python, Flask e SQLite.
+### 📦 [Gerenciamento de Estoque e Vendas](https://github.com/SheldonCupper/Gerenciamento-de-Estoque)
+
+Sistema web para cadastrar produtos, registrar estoques iniciais e finais e consultar relatórios de vendas e estoque baixo. Desenvolvido com **HTML, JavaScript, Tailwind CSS e localStorage**.
+
+**[🔗 Testar sistema online](https://sheldoncupper.github.io/Gerenciamento-de-Estoque/)** · **[📁 Código-fonte](https://github.com/SheldonCupper/Gerenciamento-de-Estoque)**
+
+### 💡 Outros projetos
+
+Também desenvolvo aplicações em React, Flutter, Python e C#. Outros projetos serão adicionados conforme estiverem documentados e autorizados para divulgação.
 
 ## 📫 Contato
 
