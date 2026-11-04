@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Alves! 👋
 
-<!--
-**SheldonCupper/SheldonCupper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Software | Estudante de Ciência da Computação
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduando em Ciência da Computação na UNITRI.
+
+🏢 Atuo na área de TI na Arcus Tecnologia.
+
+🚀 Desenvolvo sites, sistemas e aplicações como freelancer.
+
+📚 Aprimorando meus conhecimentos em Engenharia de Software, desenvolvimento Full Stack e bancos de dados.
+
+## 🛠️ Tecnologias
+
+- **Frontend:** React, TypeScript, JavaScript, HTML e CSS
+- **Backend:** Node.js, Python, Flask e C#
+- **Mobile:** Flutter e Dart
+- **Banco de dados:** PostgreSQL, SQLite e Supabase
+- **Ferramentas:** Git, GitHub e VS Code
+
+## 🚀 Projetos
+
+- **Befit:** Aplicativo fitness desenvolvido com Flutter e Supabase.
+- **E-commerce:** Loja virtual com React, Node.js, Prisma e PostgreSQL.
+- **Oficina Siri:** Sistema de gerenciamento de oficina com Python, Flask e SQLite.
+
+## 📫 Contato
+
+- GitHub: https://github.com/SheldonCupper
+
+---
+⭐ Sempre aprendendo e desenvolvendo novas soluções!
