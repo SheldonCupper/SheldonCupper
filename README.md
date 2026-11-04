@@ -55,6 +55,12 @@ Aplicação web simples para cálculo de acréscimos, descontos e percentuais us
 
 **[🚀 Testar online](https://sheldoncupper.github.io/Porcentagem-calculater/)** · **[📁 Ver código](https://github.com/SheldonCupper/Porcentagem-calculater)**
 
+### 🎛️ [Louvor Pro — Projeção e Temporizador](https://github.com/SheldonCupper/TIMER-)
+
+Aplicação web de suporte à projeção de textos, avisos, slides e consulta bíblica, com temporizador, relógio e opções de personalização. **HTML, CSS e JavaScript**. Projeto em revisão.
+
+**[📁 Ver código e documentação](https://github.com/SheldonCupper/TIMER-)**
+
 ### 💡 Outros projetos
 
 Também desenvolvo aplicações em React, Flutter, Python e C#. Outros trabalhos serão adicionados após documentação e autorização para divulgação.
