@@ -59,7 +59,7 @@ Aplicação web simples para cálculo de acréscimos, descontos e percentuais us
 
 Aplicação web de suporte à projeção de textos, avisos, slides e consulta bíblica, com temporizador, relógio e opções de personalização. **HTML, CSS e JavaScript**. Projeto em revisão.
 
-**[📁 Ver código e documentação](https://github.com/SheldonCupper/TIMER-)**
+**[🚀 Testar online](https://sheldoncupper.github.io/TIMER-/)** · **[📁 Ver código](https://github.com/SheldonCupper/TIMER-)**
 
 ### 💡 Outros projetos
 
