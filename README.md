@@ -1,16 +1,31 @@
 # Olá, eu sou Gabriel Alves! 👋
 
-💻 Desenvolvedor de Software | Estudante de Ciência da Computação
+💻 Desenvolvedor de Software | Analista de Dados | Profissional de TI
 
 ## 👨‍💻 Sobre mim
 
 🎓 Graduando em Ciência da Computação na UNITRI.
 
-🏢 Atuo na área de TI na Arcus Tecnologia.
+🏢 Atuo na área de TI na **Arcus Tecnologia**, com experiência anterior em **infraestrutura de TI**.
 
-🚀 Desenvolvo sites, sistemas e aplicações como freelancer.
+📊 Também atuo com **análise de dados**, além de desenvolver sites, sistemas e aplicações como freelancer.
 
-📚 Aprimorando meus conhecimentos em Engenharia de Software, desenvolvimento Full Stack e bancos de dados.
+🤝 Participo de **trabalho comunitário voluntário**, ministrando aulas de computação e contribuindo para a inclusão digital.
+
+📚 Tenho **cursos concluídos nas áreas de Administração e Computação** e continuo aprimorando meus conhecimentos em Engenharia de Software, desenvolvimento Full Stack e bancos de dados.
+
+## 💼 Áreas de atuação
+
+- **Desenvolvimento de software:** aplicações web, sistemas e projetos pessoais/freelance.
+- **Análise de dados:** organização, interpretação e apresentação de informações.
+- **Infraestrutura de TI:** experiência profissional na área.
+- **Ensino e impacto social:** aulas de computação em trabalho comunitário.
+
+## 🎓 Formação e cursos
+
+- **Ciência da Computação:** graduação em andamento na UNITRI.
+- **Administração:** cursos concluídos.
+- **Computação:** cursos concluídos.
 
 ## 🛠️ Tecnologias
 
