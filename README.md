@@ -32,13 +32,13 @@ Sistema web para cadastrar produtos, registrar estoques iniciais e finais e cons
 
 Ferramenta web de estimativa de consumo elétrico e estudo preliminar de inversores e baterias, desenvolvida com **HTML e JavaScript**. Os resultados precisam de validação técnica antes de uso em instalações reais.
 
-**[📁 Ver projeto](https://github.com/SheldonCupper/calculadora-hibrida)**
+**[🚀 Testar online](https://sheldoncupper.github.io/calculadora-hibrida/)** · **[📁 Ver código](https://github.com/SheldonCupper/calculadora-hibrida)**
 
 ### 🧮 [Calculadora de Porcentagem](https://github.com/SheldonCupper/Porcentagem-calculater)
 
 Aplicação web simples para cálculo de acréscimos, descontos e percentuais usando JavaScript.
 
-**[📁 Ver projeto](https://github.com/SheldonCupper/Porcentagem-calculater)**
+**[🚀 Testar online](https://sheldoncupper.github.io/Porcentagem-calculater/)** · **[📁 Ver código](https://github.com/SheldonCupper/Porcentagem-calculater)**
 
 ### 💡 Outros projetos
 
