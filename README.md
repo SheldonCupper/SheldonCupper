@@ -24,8 +24,8 @@
 ## 🎓 Formação e cursos
 
 - **Ciência da Computação:** graduação em andamento na UNITRI.
-- **Administração:** cursos concluídos.
-- **Computação:** cursos concluídos.
+- **Administração:** SISCURSOS.
+- **Computação:** SISCURSOS.
 
 ## 🛠️ Tecnologias
 
