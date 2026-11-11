@@ -37,6 +37,14 @@
 
 ## 🚀 Projetos em destaque
 
+### 🛒 [Clima Store — E-commerce Full Stack](https://github.com/SheldonCupper/clima-store-portfolio)
+
+Projeto demonstrativo de e-commerce com **React, TypeScript, Vite, Node.js, Express, PostgreSQL e Prisma**. Inclui catálogo com filtros, carrinho, checkout, contas de clientes, cupons, serviços e painel administrativo com personalização da loja. O código inclui integrações com Mercado Pago e Melhor Envio; o modo demo utiliza dados fictícios e mantém gravações e pagamentos desativados.
+
+**[📁 Código e instruções](https://github.com/SheldonCupper/clima-store-portfolio)** · **[📸 Ver telas do projeto](https://github.com/SheldonCupper/clima-store-portfolio#telas)**
+
+[![Catálogo demonstrativo da Clima Store](https://raw.githubusercontent.com/SheldonCupper/clima-store-portfolio/main/docs/screenshots/catalogo-desktop.png)](https://github.com/SheldonCupper/clima-store-portfolio)
+
 ### 📦 [Gerenciamento de Estoque e Vendas](https://github.com/SheldonCupper/Gerenciamento-de-Estoque)
 
 Sistema web para cadastrar produtos, registrar estoques iniciais e finais e consultar relatórios de vendas e estoque baixo. Desenvolvido com **HTML, JavaScript, Tailwind CSS e localStorage**.
